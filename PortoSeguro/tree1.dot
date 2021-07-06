@@ -4,7 +4,7 @@ edge [fontname=helvetica] ;
 0 [label="ps_car_13 <= 0.944\nsamples = 49999\nvalue = [48166, 1833]\nclass = No", fillcolor="#e68641"] ;
 1 [label="ps_ind_05_cat <= 0.5\nsamples = 39806\nvalue = [38553, 1253]\nclass = No", fillcolor="#e6853f"] ;
 0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
-2 [label="ps_ind_04_cat <= -0.5\nsamples = 35638\nvalue = [34604, 1034]\nclass = No", fillcolor="#e6853f"] ;
+2 [label="ps_car_01_cat <= -0.5\nsamples = 35638\nvalue = [34604, 1034]\nclass = No", fillcolor="#e6853f"] ;
 1 -> 2 ;
 3 [label="samples = 3\nvalue = [1, 2]\nclass = Yes", fillcolor="#9ccef2"] ;
 2 -> 3 ;
